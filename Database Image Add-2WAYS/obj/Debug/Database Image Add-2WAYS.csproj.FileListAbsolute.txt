@@ -1,0 +1,13 @@
+C:\Users\Radmation\AppData\Local\Temporary Projects\Database Image Add-2WAYS\bin\Debug\Database Image Add-2WAYS.exe.config
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\Database Image Add-2WAYS\Database Image Add-2WAYS\bin\Debug\Database Image Add-2WAYS.exe.config
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\Database Image Add-2WAYS\Database Image Add-2WAYS\bin\Debug\Database Image Add-2WAYS.exe
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\Database Image Add-2WAYS\Database Image Add-2WAYS\bin\Debug\Database Image Add-2WAYS.pdb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\Database Image Add-2WAYS\Database Image Add-2WAYS\obj\Debug\Database Image Add-2WAYS.csprojResolveAssemblyReference.cache
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\Database Image Add-2WAYS\Database Image Add-2WAYS\obj\Debug\Database_Image_Add_2WAYS.Form1.resources
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\Database Image Add-2WAYS\Database Image Add-2WAYS\obj\Debug\Database_Image_Add_2WAYS.Properties.Resources.resources
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\Database Image Add-2WAYS\Database Image Add-2WAYS\obj\Debug\Database Image Add-2WAYS.csproj.GenerateResource.Cache
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\Database Image Add-2WAYS\Database Image Add-2WAYS\obj\Debug\Database Image Add-2WAYS.exe
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\Database Image Add-2WAYS\Database Image Add-2WAYS\obj\Debug\Database Image Add-2WAYS.pdb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\Database Image Add-2WAYS\Database Image Add-2WAYS\obj\Debug\Database_Image_Add_2WAYS.Form2.resources
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\Database Image Add-2WAYS\Database Image Add-2WAYS\obj\Debug\Database_Image_Add_2WAYS.Form3.resources
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\Database Image Add-2WAYS\Database Image Add-2WAYS\obj\Debug\Database_Image_Add_2WAYS.Form4.resources

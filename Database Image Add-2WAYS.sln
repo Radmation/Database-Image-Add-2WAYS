@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database Image Add-2WAYS", "Database Image Add-2WAYS\Database Image Add-2WAYS.csproj", "{7214CA71-0EDC-4A13-BDE1-41FBCE9D6184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7214CA71-0EDC-4A13-BDE1-41FBCE9D6184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7214CA71-0EDC-4A13-BDE1-41FBCE9D6184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7214CA71-0EDC-4A13-BDE1-41FBCE9D6184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7214CA71-0EDC-4A13-BDE1-41FBCE9D6184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
